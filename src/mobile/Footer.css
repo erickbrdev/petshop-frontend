@@ -1,0 +1,6 @@
+@media (max-width: 470px) {
+  .footer-mobile {
+    display: flex;
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,13 @@
+@media (max-width: 840px) {
+  .section-service-mobile {
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+  }
+}
+
+@media (max-width: 765px) {
+  .section-service-mobile {
+    display: flex;
+    flex-direction: column;
+  }
+}

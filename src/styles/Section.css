@@ -1,0 +1,6 @@
+.bg-section {
+  background-image: url("https://images.unsplash.com/photo-1535930749574-1399327ce78f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNjI5NjF8MHwxfHNlYXJjaHwxOHx8UGV0JTIwU2l0dGluZ3xlbnwwfHx8fDE2ODMxMTgzODI&ixlib=rb-4.0.3&q=80&w=1380");
+  background-repeat: repeat;
+  background-position: 50% 32%;
+  width: 100%;
+}
