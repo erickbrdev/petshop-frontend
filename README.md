@@ -1,0 +1,3 @@
+O frontend do Kcire Pet é uma aplicação moderna e responsiva, criada com React Vite + Typescript. Ele foi desenvolvido com o objetivo de proporcionar uma experiência de usuário intuitiva e agradável, permitindo que os clientes possam navegar facilmente pelos produtos e serviços oferecidos pelo pet shop.
+
+A interface é simples e elegante, com uma paleta de cores atraente e imagens cuidadosamente selecionadas, que transmitem a personalidade e o estilo do Kcire Pet. Além disso, a aplicação é totalmente adaptável a diferentes dispositivos, proporcionando uma ótima experiência tanto em desktops como em smartphones e tablets.
